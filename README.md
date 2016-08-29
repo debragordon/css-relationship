@@ -12,7 +12,7 @@ We were tasked to showcase our knowledge of targeting and styling elements using
   http-server -p 9999
   ```
 
-4. Then navigate to http://localhost:9999 in your browser to view the basic form (preferably open in Google Chrome)
+4. Then navigate to http://localhost:9999 in your browser to view the css in action(preferably open in Google Chrome)
 
 > TIP: To view source code, open the Chrome dev tools and click "Source"
 
